@@ -1,2 +1,2 @@
-# Basic_Portfolio
-Week 1 Assignment
+# Basic-Portfolio
+1st week assignment
